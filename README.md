@@ -1,4 +1,4 @@
-## Grupo de Estudio DevC LATAM para la Certificación en Facebook Ad Products Developer I 🤖 
+## Grupo de Estudio DevC Norte América & LATAM para la traducción de la Certificación en Facebook Ad Products Developer I 🤖 
 Documentación en Español para la preparación a la [Certificación en Facebook Ad Products Developer I](https://www.facebook.com/business/learn/certification/exams/500-101-exam)
  del programa Facebook Blueprint: https://www.facebook.com/business/learn/certification/ La traducción del repositorio está desarrollada mediante la contribución de líderes de comunidades Developer Circles de Norte América & LATAM en ciudades como 🇺🇸 Omaha, 🇨🇴 Bogotá & 🇬🇹 Guatemala.
 
@@ -90,6 +90,10 @@ El Administrador de etiquetas permite a las personas actualizar rápida y fácil
 #### Capítulo 6 - Matching Avanzado
 En este capítulo, aprenderá cómo puede enviar datos de clientes adicionales a través del píxel de Facebook para hacer coincidir más acciones del sitio web con los usuarios de Facebook.
 
+Facebook utiliza la cookie de Facebook del navegador para hacer coincidir los eventos de píxeles con un usuario de Facebook. Pero, ¿qué sucede si el usuario no ha iniciado sesión en Facebook en el navegador que dispara el píxel? O bien, ¿qué pasa si la cookie de Facebook se ha eliminado desde la última sesión de Facebook?
+
+Para resolver este problema, el píxel de Facebook tiene una función de Matching Avanzado que permite al anunciante enviar datos del cliente a través del píxel para que coincida con más acciones del sitio web con los usuarios de Facebook. El anunciante puede pasar los identificadores del cliente, como el correo electrónico y el número de teléfono, que el anunciante recopila de su sitio web durante el proceso de pago, inicio de sesión en la cuenta o registro como parámetros en el píxel. Esto permite que Facebook use esta información para hacer coincidir los eventos de píxeles con los usuarios de Facebook cuando la cookie de Facebook no está presente en el navegador que dispara el píxel.
+
 > Curso 6: https://www.facebookblueprint.com/student/path/187904/activity/159199
 
 #### Capítulo 7 - Ads Dinámicos
@@ -113,5 +117,5 @@ La primera solución que Facebook lanzó para una vertical específica fue Dynam
  
 > Curso 9: https://www.facebookblueprint.com/student/path/187904/activity/160302
 
-#### Contributors: DevC Lead: Omaha (Jorge Grimaldo), Guatemala (Daniel Lara), Costa Rica (Leo Camacho).
+#### Contributors: DevC Lead: Omaha (Jorge Grimaldo), Guatemala (Daniel Lara), Omaha (Leo Camacho).
 
